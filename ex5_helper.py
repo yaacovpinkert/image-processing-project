@@ -15,11 +15,11 @@ from typing import List, Union
 ##############################################################################
 #                                   Typing                                   #
 ##############################################################################
-SingleChannelImage = List[List[int]]
-ColoredImage = List[List[List[int]]]
+Pixel = List[int]
+SingleChannelImage = List[Pixel]
+ColoredImage = List[List[Pixel]]
 Image = Union[ColoredImage, SingleChannelImage]
 Kernel = List[List[float]]
-Pixel = List[int]
 
 
 ##############################################################################
