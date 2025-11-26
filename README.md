@@ -1,4 +1,4 @@
-# Image Editor Project
+# Image Processing Project
 
 A Python project for basic image processing operations, including grayscale conversion, blurring, resizing, rotation, and multi-scale patch matching. This project uses a clean structure and a helper module for image handling.
 
