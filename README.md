@@ -35,7 +35,7 @@ Blurred Image:
 
 Resized Image (50% scale):
 
-<img src="examples/output_resize.png" alt="Resized" width="50%">
+<img src="examples/output_resize.png" alt="Resized" width="25%">
 
 Rotated Images (90° Right and Left):
 
