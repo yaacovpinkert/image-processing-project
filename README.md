@@ -1,6 +1,9 @@
-# Image Processing Project
+# <div style="text-align:center">Image Processing Project</div>
+<div style="text-align:center">
+A Python project for basic image processing operations for Intro2CS Exercise 5 at The Hebrew University of Jerusalem.<br>
+The main idea behind this exercise is to get familiar with <strong>image processing</strong> and <strong>multidimensional arrays</strong>.
+</div>
 
-A Python project for basic image processing operations, including grayscale conversion, blurring, resizing, rotation, and multi-scale patch matching. This project uses a clean structure and a helper module for image handling.
 
 ## Features
 
@@ -43,7 +46,7 @@ Rotated Images (90° Right and Left):
 <img src="examples/output_rotate_left.png" alt="Rotated Left" width="50%">
 
 Patch Matching:
-The console will display patch locations for multi-scale and rotated patches.
+The console will display patch locations for multiscale and rotated patches.
 
 
 ## Requirements
